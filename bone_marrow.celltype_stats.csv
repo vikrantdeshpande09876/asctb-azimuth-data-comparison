@@ -30,9 +30,9 @@
 "bone_marrow","NK CD56+","CL:0000938",2,1676
 "bone_marrow","NK Proliferating","CL:0000824",2,232
 "bone_marrow","pDC","CL:0001058",2,3019
+"bone_marrow","pre B","[precursor B cell](http://www.ontobee.org/search?ontology=CL&keywords=CL%3A0000817&submit=Search+terms)",2,3903
 "bone_marrow","pre-mDC","CL:0001029",2,1475
 "bone_marrow","pre-pDC","CL:0000992",2,1108
-"bone_marrow","pre B","[precursor B cell](http://www.ontobee.org/search?ontology=CL&keywords=CL%3A0000817&submit=Search+terms)",2,3903
 "bone_marrow","pro B","CL:0000826",2,755
 "bone_marrow","Prog Mk","CL:0000553",2,800
 "bone_marrow","transitional B","CL:0000818",2,9445
