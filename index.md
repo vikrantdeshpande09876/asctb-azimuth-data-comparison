@@ -10,3 +10,4 @@
 - [Spleen](https://hubmapconsortium.github.io/asctb-azimuth-data-comparison/spleen.csv)
 
 ## Summary statistics of all datasets processed currently:
+- [Azimuth_vs_ASCTB summaries](https://hubmapconsortium.github.io/asctb-azimuth-data-comparison/Azimuth_vs_ASCTB.summaries.xlsx)
